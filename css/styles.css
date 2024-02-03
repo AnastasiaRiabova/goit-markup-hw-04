@@ -25,6 +25,9 @@ body {
     background-color: var(--color-white);
     font-size: 16px;
     letter-spacing: 0.02em;
+    .test {
+        background-color: red;
+    }
 }
 
 h1,
